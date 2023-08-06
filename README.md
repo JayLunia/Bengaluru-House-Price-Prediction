@@ -1,2 +1,3 @@
 # Bengaluru-House-Price-Prediction
- Linear Regression project
+ This is a linear regression project
+ The website is build on flask 

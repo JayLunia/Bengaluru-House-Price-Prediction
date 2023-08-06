@@ -1,0 +1,10 @@
+.form-control,.form-select{
+  outline:2px solid rgba(255, 255, 255, 0.5) !important ;
+  border: none !important;
+}
+
+.form-control:focus,.form-select:focus{
+  outline:2px solid rgba(255, 255, 255, 1) !important ;
+  box-shadow: none !important;
+  
+}
